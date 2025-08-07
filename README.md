@@ -78,7 +78,7 @@ These experiences have strengthened my practical knowledge in ethical hacking, S
 ### 🟢 Introduction to Cybersecurity – Cisco Networking Academy  
 📄 [View Certificate](./ShortCourses&Certifications/Cybersecurity_Intro_Cisco.pdf)
 
----
+----
 
 ### 🟢 SOC Analyst Certification – AND Academy  
 📄 [View Certificate](./short-courses/SOC_Analyst_AND_Academy.pdf)
