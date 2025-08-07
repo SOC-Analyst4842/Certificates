@@ -48,22 +48,22 @@ These experiences have strengthened my practical knowledge in ethical hacking, S
 
 ### 🔸 Cybersecurity Workshop – Hackathon (3-Day)
 - Training in web pen-testing, mobile pen-testing, and SOC operations.  
-📄 [View Certificate](./workshops/Cybersecurity_Hackathon_Workshop.pdf)
+📄 [View Certificate](./Workshops/Cybersecurity_Hackathon_Workshop.pdf)
 
 ---
 
 ### 🔸 Linux Administration – Tech Hierarchy  
-📄 [View Certificate](./workshops/Linux_Admin_TechHierarchy.pdf)
+📄 [View Certificate](./Workshops/Linux_Admin_TechHierarchy.png)
 
 ---
 
 ### 🔸 Career in Cyber Security – Tech Hierarchy  
-📄 [View Certificate](./workshops/CareerInCybersecurity_TechHierarchy.pdf)
+📄 [View Certificate](./Workshops/CareerInCybersecurity_TechHierarchy.png)
 
 ---
 
-### 🔸 GitHub Workshop – Summer Workshops  
-📄 [View Certificate](./workshops/GitHub_SummerWorkshop.pdf)
+### 🔸 GitHub Workshop – Dr. Coders Summer Workshops  
+📄 [View Certificate](./Workshops/GitHub_SummerWorkshop.png)
 
 ---
 
