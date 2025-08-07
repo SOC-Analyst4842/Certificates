@@ -21,7 +21,7 @@ These experiences have strengthened my practical knowledge in ethical hacking, S
 - Conducted ethical hacking tasks to identify and exploit vulnerabilities in web applications.
 - Utilized various cybersecurity tools and techniques to strengthen security measures.
 - Developed a solid understanding of penetration testing and vulnerability analysis.  
-📄 [View Certificate](./internships/KaiRiz_Certificate.pdf)
+📄 [View Certificate](./internships/KaiRiz_Certificate.png)
 
 ---
 
@@ -36,7 +36,7 @@ These experiences have strengthened my practical knowledge in ethical hacking, S
 ### 🔹 Tech Support Internship – GAOTek Inc.
   *Role:* Squad Leader, WordPress Assistant  
   *Duration:* 6 months  
-📄 [View Certificate](./internships/GAOTek_TechSupport_Internship.pdf)
+📄 [View Certificate](./internships/GAOTek_TechSupport_Internship 1.pdf) (./internships/GAOTek_TechSupport_Internship 2.pdf) (./internships/GAOTek_TechSupport_Internship 3.pdf)
 
 ---
 
