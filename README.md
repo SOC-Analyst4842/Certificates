@@ -36,7 +36,9 @@ These experiences have strengthened my practical knowledge in ethical hacking, S
 ### 🔹 Tech Support Internship – GAOTek Inc.
   *Role:* Squad Leader, WordPress Assistant  
   *Duration:* 6 months  
-📄 [View Certificate](./internships/GAOTek_TechSupport_Internship 1.pdf) (./internships/GAOTek_TechSupport_Internship 2.pdf) (./internships/GAOTek_TechSupport_Internship 3.pdf)
+[View Certificate](./internships/GAOTek_TechSupport_Internship1.pdf)
+[View Certificate](./internships/GAOTek_TechSupport_Internship2.pdf)
+[View Certificate](./internships/GAOTek_TechSupport_Internship3.pdf)
 
 ---
 
