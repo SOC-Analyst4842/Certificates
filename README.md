@@ -76,7 +76,7 @@ These experiences have strengthened my practical knowledge in ethical hacking, S
 ---
 
 ### 🟢 Introduction to Cybersecurity – Cisco Networking Academy  
-📄 [View Certificate](./short-courses/Cybersecurity_Intro_Cisco.pdf)
+📄 [View Certificate](./ShortCourses&Certifications/Cybersecurity_Intro_Cisco.pdf)
 
 ---
 
