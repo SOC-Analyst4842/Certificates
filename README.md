@@ -84,23 +84,41 @@ These experiences have strengthened my practical knowledge in ethical hacking, S
 ## 🗂 Folder Structure
 
 certificates/
+
 ├── internships/
+
 │ ├── DevelopersHub_Certificate.pdf
+
 │ ├── KaiRiz_Certificate.pdf
+
 │ └── DigitalEmpowermentNetwork_Certificate.pdf
+
 │ └── GAOTek_TechSupport_Internship.pdf
+
 │
+
 ├── workshops/
+
 │ ├── Cybersecurity_Hackathon_Workshop.pdf
+
 │ ├── Linux_Admin_TechHierarchy.pdf
+
 │ ├── CareerInCybersecurity_TechHierarchy.pdf
+
 │ └── GitHub_SummerWorkshop.pdf
+
 │
+
 ├── short-courses/
+
 │ ├── CEHv12_NAVTTC.pdf
+
 │ ├── Cybersecurity_Intro_Cisco.pdf
+
 │ └── SOC_Analyst_AND_Academy.pdf
+
 │
+
 └── README.md
 
 
